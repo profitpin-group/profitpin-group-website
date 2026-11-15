@@ -40,6 +40,7 @@ One row per weekly check (Mondays). Position from Search Console average positio
 | 2026-11-11 (data to Nov 9) | 0 / 116 / 17.4 | 2 / 117 / 6.7 | 0 / 6 / 2.5 | 0 / 9 / 24.2 |
 | 2026-11-13 (data to Nov 10) | 0 / 119 / 17.8 | 2 / 118 / 6.7 | 0 / 6 / 2.5 | 0 / 9 / 24.2 |
 | 2026-11-14 (data to Nov 11) | 0 / 132 / 16.9 | 2 / 114 / 6.7 | 0 / 7 / 3.3 | 0 / 8 / 26.8 |
+| 2026-11-15 (data to Nov 13) | 0 / 145 / - | 2 / 115 / - | 0 / 6 / - | 0 / 7 / - |
 
 Notes 2026-11-08: no target query shows impressions yet. Real queries seen: "sublimit" (13 impr, pos 5.8), "52.219-14" (1, pos 34), "trust account reconciliation" (SaleLedger, 1, pos 99). LeafLedger and StockStart queries are hidden by Google (too few). Google direct checks start Monday 2026-11-09.
 
@@ -54,3 +55,5 @@ Notes 2026-11-11 (Wednesday, no google.com checks): still no impressions for any
 Notes 2026-11-13 (Friday, no google.com checks): totals barely moved; Search Console data ends Nov 10. Every target query already has a matching page on its site, so no new page today and no site change (no IndexNow). StockStart page-indexing report last updated 11/8: still 5 discovered, not indexed, all requested earlier. Growth dashboard search_daily.json refreshed to Nov 10 (SaleLedger 80c8d7e). Drafted SaleLedger batch 4 (23 Wisconsin license holders not yet emailed), not sent.
 
 Notes 2026-11-14 (Saturday, no google.com checks): still no impressions for any target query. SubLimit queries: "sublimit" 24, "sublimits" 7, "sublimited" 3, "sub limit" 2, "far 52.219-14" 1, "far 52.219 14" 1, "government contractors" 1. SaleLedger: "trust account reconciliation" 2. StockStart page-indexing report still dated 11/8 (5 discovered, not indexed, all requested earlier). No site change, so no IndexNow. Growth dashboard search_daily.json refreshed to Nov 11 (SaleLedger 18f724f). LinkedIn drafts for week of 11-16 in linkedin-week-20261116.md.
+
+Notes 2026-11-15 (Sunday, no google.com checks): still no impressions for any target query. SubLimit queries: "sublimit" 30, "sublimits" 7, "sublimited" 3, "government contractors" 1, "far 52.219-14" 1, "sub limit" 1. StockStart page-indexing report still dated 11/8 (5 discovered, not indexed, all requested earlier). No site change, so no IndexNow. Growth dashboard search_daily.json refreshed to Nov 13 (SaleLedger ae0d256). Average position not read today ("-").
