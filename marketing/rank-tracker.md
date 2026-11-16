@@ -7,7 +7,9 @@ One row per weekly check (Mondays). Position from Search Console average positio
 | Date | sublimit subcontracting | limitations on subcontracting calculator | subcontracting limit calculator | similarly situated entity subcontracting | FAR 52.219-14 calculation |
 |---|---|---|---|---|---|
 | 2026-11-08 (baseline, not a Monday) | — | — | — | — | — |
-| 2026-11-09 | g1 | g: not top 10 | — | — | — (52.219-14: 63, 1 impr) |
+| 2026-11-09 | g1 | g: not top 10 | — | — |
+| 2026-11-16 | — | g: not top 10 (ServiceTitan help pages fill 1–9) | — | — | — (52.219-14: 63, 1 impr) |
+| 2026-11-16 | — | g3 (getsublimit calculator) | — | — | — (far 52.219-14: 63, 1 impr) |
 
 ## LeafLedger
 
@@ -15,6 +17,7 @@ One row per weekly check (Mondays). Position from Search Console average positio
 |---|---|---|---|---|---|
 | 2026-11-08 (baseline) | — | — | — | — | — |
 | 2026-11-09 | g1 | — | g1 | — | — |
+| 2026-11-16 | — | — | g1–3 (Microsoft Store listing 1, tobacco-monthly-reporting 2, Store 3) | — | — |
 
 ## StockStart
 
@@ -29,6 +32,7 @@ One row per weekly check (Mondays). Position from Search Console average positio
 |---|---|---|---|---|
 | 2026-11-08 (baseline) | — | — | — | — |
 | 2026-11-09 | g2 | g: not top 10 | — | — |
+| 2026-11-16 | g1 ("saleledger auction") | g: not top 10 (law-firm trust software) | — | — |
 
 ## Search Console totals (last 28 days)
 
@@ -41,6 +45,7 @@ One row per weekly check (Mondays). Position from Search Console average positio
 | 2026-11-13 (data to Nov 10) | 0 / 119 / 17.8 | 2 / 118 / 6.7 | 0 / 6 / 2.5 | 0 / 9 / 24.2 |
 | 2026-11-14 (data to Nov 11) | 0 / 132 / 16.9 | 2 / 114 / 6.7 | 0 / 7 / 3.3 | 0 / 8 / 26.8 |
 | 2026-11-15 (data to Nov 13) | 0 / 145 / - | 2 / 115 / - | 0 / 6 / - | 0 / 7 / - |
+| 2026-11-16 (data to Nov 14) | 1 / 147 / - | 2 / 117 / - | 0 / 7 / - | 0 / 8 / - |
 
 Notes 2026-11-08: no target query shows impressions yet. Real queries seen: "sublimit" (13 impr, pos 5.8), "52.219-14" (1, pos 34), "trust account reconciliation" (SaleLedger, 1, pos 99). LeafLedger and StockStart queries are hidden by Google (too few). Google direct checks start Monday 2026-11-09.
 
@@ -57,3 +62,5 @@ Notes 2026-11-13 (Friday, no google.com checks): totals barely moved; Search Con
 Notes 2026-11-14 (Saturday, no google.com checks): still no impressions for any target query. SubLimit queries: "sublimit" 24, "sublimits" 7, "sublimited" 3, "sub limit" 2, "far 52.219-14" 1, "far 52.219 14" 1, "government contractors" 1. SaleLedger: "trust account reconciliation" 2. StockStart page-indexing report still dated 11/8 (5 discovered, not indexed, all requested earlier). No site change, so no IndexNow. Growth dashboard search_daily.json refreshed to Nov 11 (SaleLedger 18f724f). LinkedIn drafts for week of 11-16 in linkedin-week-20261116.md.
 
 Notes 2026-11-15 (Sunday, no google.com checks): still no impressions for any target query. SubLimit queries: "sublimit" 30, "sublimits" 7, "sublimited" 3, "government contractors" 1, "far 52.219-14" 1, "sub limit" 1. StockStart page-indexing report still dated 11/8 (5 discovered, not indexed, all requested earlier). No site change, so no IndexNow. Growth dashboard search_daily.json refreshed to Nov 13 (SaleLedger ae0d256). Average position not read today ("-").
+
+Notes 2026-11-16 (Monday): google.com checks in the owner's Chrome, pws=0, page 1 only. SubLimit calculator now g3 for "limitations on subcontracting calculator" (was not top 10 on 11-09), behind nexussentinelai and guidegsc tools. LeafLedger: Microsoft Store listing ranks 1 and 3 and tobacco-monthly-reporting 2 for "TTB 5210.5 software". SaleLedger g1 for "saleledger auction" (was g2); Slashdot/SourceForge comparison pages follow. Category queries for StockStart and SaleLedger still not top 10. Search Console: SubLimit's first click since baseline (Nov 14); still no target-query impressions except "far 52.219-14". Google indexing requested for StockStart pricebook-unit-cost-checker, servicetitan-pricebook-manual-update, supplier-invoice-pdf-to-pricebook, vendor-invoice-pricebook-matching (page-indexing report dated 11/12: 6 not indexed incl. terms/refunds). No site change, so no IndexNow. Growth dashboard search_daily.json refreshed to Nov 14 (SaleLedger f6d0b55).
