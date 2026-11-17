@@ -1,0 +1,21 @@
+state,company,first_name,email,source_url,why,status
+VA,Mechollage,,service@mechollage.com,https://mechollage.com/,HVAC/plumbing shop; ServiceTitan scheduler and myservicetitan link on homepage; also a ServiceTitan case study,
+NC,Comfort Monster Heating & Air,,info@comfortmonster.com,https://comfortmonster.com/,Raleigh HVAC; ServiceTitan customer case study (casestudies.com/company/servicetitan),
+NM,B. Carlson Heating Air Conditioning & Plumbing,,support@bcarlson.com,https://bcarlson.com/,Albuquerque HVAC/plumbing; ServiceTitan scheduler embedded and bcarlson.myservicetitan.com link on homepage,
+MI,Lake Michigan Mechanical,,info@lakemihcp.com,https://lakemihcp.com/about-us/,Grand Rapids plumbing/heating/AC; ServiceTitan call-tracking script on homepage,"hold - email domain differs, weak proof"
+NE,ServiceOne Heating Cooling Plumbing & Electrical,,info@serviceone.com,https://serviceone.com/,Omaha HVAC/plumbing/electrical; ServiceTitan scheduler embedded on homepage,
+AR,Sanders Plumbing & HVAC,,dispatch@sandersplumbinghvac.com,https://sandersplumbinghvac.com/,Little Rock plumbing/HVAC; ServiceTitan web scheduler on homepage,
+GA,Zen Air,,office@callzenair.com,https://callzenair.com/about-us/contact-us/,Duluth GA HVAC; ServiceTitan scheduler embedded on homepage,
+FL,Egberts Electrical Plumbing Air Conditioning,,info@egbertsair.com,https://egbertsair.com/privacy-policy/,Lakeland electrical/plumbing/AC; ServiceTitan web scheduler link on homepage,
+TX,Beyer Plumbing,Liz,lizb@beyerplumbing.com,https://beyerplumbing.com/terms-and-conditions/,Selma TX plumber; ServiceTitan scheduler on homepage and a ServiceTitan success story,
+TX,Mountain Plumbing Heating & Air Conditioning,Bill,bill@mphatx.com,https://mountainplumbingcompany.com/,Lubbock plumbing/HVAC; ServiceTitan web scheduler on homepage; email in site business data,"hold - email only in hidden page data, other domain"
+AL,Bowers Plumbing,,info@bowersplumbing.com,https://bowersplumbing.com/,Madison County AL plumber; ServiceTitan web scheduler and call-tracking scripts on homepage,
+CA,Allbritten Heating Air Conditioning Plumbing & Electrical,,csr@allbritten.com,https://allbritten.com/,Fresno HVAC/plumbing/electrical; ServiceTitan scheduler embedded on homepage,
+PA,Brubaker Inc.,,service@brubakerinc.com,https://brubakerinc.com/privacy-policy/,Lancaster HVAC/plumbing/electrical; ServiceTitan scheduler embedded on homepage,
+PA,Summers & Zim's,,info@sumzim.com,https://sumzim.com/,SE Pennsylvania plumbing/HVAC; ServiceTitan scheduler and text-to-chat on homepage,
+CO,M3 Mechanical,,feelthecomfort@m3mech.com,https://m3mech.com/,Colorado Springs HVAC/plumbing/electrical; ServiceTitan scheduler embedded on homepage,
+TN,Metro Plumbing Heating & Air,,info@metropha.com,https://metropha.com/,Chattanooga plumbing/HVAC; ServiceTitan scheduler embedded on homepage,
+NV,Nevada Heating Cooling & Plumbing,,info@nevadaheating.com,https://nevadaheating.com/contact-us/,Sparks/Reno HVAC/plumbing; ServiceTitan scheduler embedded on homepage,
+VA,Automatic Climate,,service@automaticclimate.com,https://automaticclimate.com/,Richmond HVAC/plumbing/electrical; ServiceTitan scheduler embedded on homepage,
+IA,Colony Plumbing Heating & Air Conditioning,,info@colonyheating.com,https://colonyheating.com/contact-us/,Cedar Rapids plumbing/HVAC; ServiceTitan scheduler embedded on homepage,
+VA,F.H. Furr Plumbing Heating Air Conditioning & Electrical,,customerservice@fhfurr.com,https://fhfurr.com/,Northern/Central VA HVAC/plumbing/electrical; homepage loads ServiceTitan scheduler,
