@@ -1,6 +1,6 @@
 # Direct-buyer emails, first send 2026-11-14 (short, one question, free done-for-you offer)
 
-Store links (2026-11-16): every email carries the product's Microsoft Store link with cid=email-buyer (first email) or cid=email-followup (follow-up). SaleLedger: add its Store line only once it passes certification (ID 9N46593KX9HK).
+Store links (2026-11-16): every email carries the product's Microsoft Store link with cid=email-buyer (first email) or cid=email-followup (follow-up). SaleLedger passed certification and is live in the Store since 2026-11-17 (ID 9N46593KX9HK); its emails now carry the Store line too.
 
 ## SubLimit -> small federal contractors (from support@getsublimit.com, Neo)
 Subject: Quick question on the subcontracting limit
@@ -48,6 +48,23 @@ We made a free checker that turns invoice pack prices into unit costs and shows 
 If it's easier, send us one recent supplier invoice and your pricebook export, and we'll send back the list of cost changes free. StockStart is independent and not affiliated with ServiceTitan.
 
 StockStart itself is in the Microsoft Store, with a 14-day free trial: https://apps.microsoft.com/detail/9PK7HXBCMQW8?mode=direct&cid=email-buyer
+
+ProfitPin Group
+PO Box 391, Watkins, CO 80137
+Reply "no thanks" and we won't write again.
+
+## SaleLedger -> auction houses and estate-sale companies (from support@getsaleledger.com)
+Subject: Quick question on your trust account reconciliation
+
+Hello {first_name_or_team},
+
+Quick question: each month, how does {company} check that the bank balance, the trust account books and what you owe consignors all agree?
+
+We made a free three-way check that runs in your browser, with no sign-up and nothing uploaded: https://getsaleledger.com/trust-account-check.html?utm_source=email&utm_medium=buyer&utm_campaign=buyer_20261117
+
+SaleLedger itself is in the Microsoft Store, with a 30-day free trial: https://apps.microsoft.com/detail/9N46593KX9HK?mode=direct&cid=email-buyer
+
+If it's easier, send last month's three totals and we'll send back the check free. It isn't legal or accounting advice.
 
 ProfitPin Group
 PO Box 391, Watkins, CO 80137
