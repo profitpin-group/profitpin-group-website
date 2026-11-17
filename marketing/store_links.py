@@ -9,7 +9,7 @@ SITES = {
     "getsublimit.com": ("sl", "9N6GJSH3J8BD", "SubLimit"),
     "getleafledger.com": ("ll", "9NJJJJMSLD2W", "LeafLedger"),
     "getstockstart.com": ("ss", "9PK7HXBCMQW8", "StockStart"),
-    # "getsaleledger.com": ("sd", "9N46593KX9HK", "SaleLedger"),  # uncomment once SaleLedger is live in the Store
+    "getsaleledger.com": ("sd", "9N46593KX9HK", "SaleLedger"),
 }
 SKIP = {"404", "licenses", "privacy", "refunds", "terms", "welcome"}
 APPLY = "--apply" in sys.argv
@@ -29,9 +29,13 @@ for site, (pre, sid, name) in SITES.items():
         cid = f"{pre}-{f.stem}"
         new = re.sub(r"(apps\.microsoft\.com/detail/[0-9A-Z]{12}\?mode=direct)(?!&cid)", rf"\1&cid={cid}", text)
         added = False
+        anchor = "</main>" if "</main>" in new else "<footer"
         if "ms-store-cta" not in new and "vinext.navigationRuntime" not in new and f.stem not in SKIP \
-                and "</main>" in new and "apps.microsoft.com" not in text:
-            new = new.replace("</main>", BLOCK.format(id=sid, cid=cid, name=name) + "</main>", 1)
+                and f.stem != "index" and anchor in new and "apps.microsoft.com" not in text:
+            blk = BLOCK.format(id=sid, cid=cid, name=name)
+            if anchor == "<footer":
+                blk = '<div class="wrap">' + blk + '</div>\n'
+            new = new.replace(anchor, blk + anchor, 1)
             added = True
         if new != text:
             print(f"{site}/{f.name}: links tagged={len(re.findall('&cid=', new)) - len(re.findall('&cid=', text))} block={added}")
