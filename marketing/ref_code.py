@@ -1,6 +1,6 @@
 """Company code for links in outreach emails, so the growth dashboard can show which business clicked.
 
-    python ref_code.py "Rago Arts" consignorpayables@ragoarts.com   ->  e-rago-arts-3f2a
+    python ref_code.py "Rago Arts" consignorpayables@ragoarts.com   ->  e-rago-arts-f7bb
 
 The code is "e-" + a short slug of the company name + 4 hex characters from the email address, so the
 same recipient always gets the same code and two contacts at one company stay distinct. Add it to every
