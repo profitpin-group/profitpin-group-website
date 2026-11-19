@@ -1,0 +1,138 @@
+{
+ "subj": "Quick question on the subcontracting limit",
+ "tmpl": "Quick question: when {co} subcontracts on a set-aside contract, how do you keep track of the limitations on subcontracting (FAR 52.219-14, for example 50% for services or 85% for general construction)?\n\nWe built a free calculator for it that runs in your browser: https://getsublimit.com/subcontracting-limit-calculator.html?utm_source=email&utm_medium=buyer&utm_campaign=buyer_20261119&ref={ref}\n\nIf it's easier, reply with one contract's totals (paid to your own team, to similarly situated subs, and to other subs) and we'll send back the calculation free.\n\nSubLimit itself is in the Microsoft Store, with a 30-day free trial: https://apps.microsoft.com/detail/9N6GJSH3J8BD?mode=direct&cid=email-buyer",
+ "q": [
+  [
+   "maria@swan2b.com",
+   "Maria",
+   "Swan Contracting",
+   "e-swan-contracting-f0ed"
+  ],
+  [
+   "mehart@knightpropertysvs.com",
+   "Michele",
+   "Knight Property Services",
+   "e-knight-property-services-07e5"
+  ],
+  [
+   "jake@cooksexcavating.com",
+   "Jake",
+   "Cook's Excavating",
+   "e-cook-s-excavating-3ef2"
+  ],
+  [
+   "rwoodward@3phllc.com",
+   "Rick",
+   "3PH",
+   "e-3ph-976f"
+  ],
+  [
+   "p.vanloan@rcqcconstruction.com",
+   "Patrick",
+   "RC QC Construction",
+   "e-rc-qc-construction-0e93"
+  ],
+  [
+   "cnoble@nobleexcavating.com",
+   "Chris",
+   "Noble Excavating",
+   "e-noble-excavating-c081"
+  ],
+  [
+   "gdaforno@sentinelbuildersllc.com",
+   "George",
+   "Sentinel Builders",
+   "e-sentinel-builders-40db"
+  ],
+  [
+   "bjohnson@bchbuilders.com",
+   "Brooks",
+   "BCH Builders",
+   "e-bch-builders-c30d"
+  ],
+  [
+   "rogerpelt@rpeltrpconstruction.com",
+   "Roger",
+   "R P Construction",
+   "e-r-p-construction-5644"
+  ],
+  [
+   "jeremy@twosig.com",
+   "Jeremy",
+   "Two Sigma Construction Group",
+   "e-two-sigma-construction-group-31b8"
+  ],
+  [
+   "jcardenas@azteccontracting.net",
+   "Jose",
+   "Aztec Contracting",
+   "e-aztec-contracting-2193"
+  ],
+  [
+   "nmehta@mtnt.net",
+   "Naren",
+   "Mtnt Custodial Services",
+   "e-mtnt-custodial-services-d946"
+  ],
+  [
+   "sasha@jsxhauling.com",
+   "Sasha",
+   "JSX Hauling",
+   "e-jsx-hauling-a172"
+  ],
+  [
+   "ted@axisllcfederal.com",
+   "Ted",
+   "Axis",
+   "e-axis-b48c"
+  ],
+  [
+   "endia@crystalclearmaint.com",
+   "Endia",
+   "Crystal Clear Maintenance",
+   "e-crystal-clear-maintenance-48ef"
+  ],
+  [
+   "info@southalabamacontracting.com",
+   "South Alabama Contracting team",
+   "South Alabama Contracting",
+   "e-south-alabama-contracting-9e2b"
+  ],
+  [
+   "deb.martin@jdmartinconstruction.com",
+   "Deborah",
+   "JD Martin Construction Services",
+   "e-jd-martin-construction-service-3697"
+  ],
+  [
+   "kbueno@micronams.com",
+   "Kevin",
+   "Micron Air & Mechanical Solutions",
+   "e-micron-air-mechanical-solution-a5b1"
+  ],
+  [
+   "jeremy@middlecanyonelectric.com",
+   "Jeremy",
+   "Middle Canyon Electric",
+   "e-middle-canyon-electric-18a7"
+  ],
+  [
+   "fedbids@cascade-enterprises.com",
+   "Cascade Enterprises team",
+   "Cascade Enterprises",
+   "e-cascade-enterprises-c28d"
+  ],
+  [
+   "keith.harenda@kphconstruction.com",
+   "Keith",
+   "KPH Construction",
+   "e-kph-construction-86a9"
+  ],
+  [
+   "ellenb@brackleyelectric.com",
+   "Ellen",
+   "Brackley Electric",
+   "e-brackley-electric-80f5"
+  ]
+ ]
+}
