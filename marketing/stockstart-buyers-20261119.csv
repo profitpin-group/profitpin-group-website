@@ -1,0 +1,21 @@
+state,company,first_name,email,source_url,why,status
+MO,Superior Service,,office@superior-service.com,https://www.superior-service.com/privacy-policy/,"St. Louis area family-owned plumbing + HVAC; ServiceTitan web scheduler (embed.scheduler.servicetitan.com) on site",
+GA,Moody Heating and Air,,info@moodyheatingandair.com,https://moodyheatingandair.com/contact-us/,"Rome GA HVAC; ServiceTitan web scheduler embedded on site",
+IA,Service Legends Heating & Cooling,,email@servicelegends.com,https://servicelegends.com/contact-us/,"Des Moines HVAC; ServiceTitan web scheduler embedded on site",
+IA,True Comfort Heating Cooling and Plumbing,,info@truecomfortiowa.com,https://www.truecomfortiowa.com/,"Des Moines HVAC + plumbing; ServiceTitan booking frame on site",
+OH,Eco Plumbers Electricians and HVAC,,service@geteco.com,https://geteco.com/,"Hilliard/Columbus plumbing + electrical + HVAC; ServiceTitan web scheduler embedded on site",
+CA,Veterans Heating & Cooling,,service@veteransheatingandcooling.com,https://veteransheatingandcooling.com/privacy-policy/,"Carlsbad CA HVAC; ServiceTitan web scheduler embedded on site",
+IN,Korte Does It All,,info@kortedoesitall.com,https://kortedoesitall.com/contact/,"Fort Wayne plumbing + HVAC + electrical; ServiceTitan web scheduler embedded on site",
+UT,AllStar Service & Repair,,office@allstarrepairutah.com,https://allstarrepairutah.com/contact-us/,"Northern Utah plumbing/drain; ServiceTitan web scheduler embedded on site",
+TX,Dallas Plumbing & Air Conditioning,,service@DallasPlumbing.com,https://dallasplumbing.com/about-us/,"Dallas plumbing + HVAC (120+ years); ServiceTitan web scheduler embedded on site",
+TX,Bacon Plumbing Heating Air Electric,,info@everyonelovesbacon.com,https://everyonelovesbacon.com/contact-us/,"DFW/Houston plumbing + HVAC + electrical; ServiceTitan web scheduler embedded on site",
+IL,First Chicago Plumbing,Eugene,info@firstchicagoplumbing.com,https://firstchicagoplumbing.com/contact/,"Chicago plumbing (owner Eugene Petrov); ServiceTitan web scheduler embedded on site",
+WA,Greenwood Heating,,info@greenwoodheating.com,https://greenwoodheating.com/contact/,"Seattle HVAC; ServiceTitan web scheduler embedded on site",
+IN,Northern Comfort Systems,,info@northerncomfortsystems.com,https://northerncomfortsystems.com/contact/,"Indianapolis heating + plumbing; ServiceTitan web scheduler embedded on site",
+TX,Frymire Home Services,,info@frymire.com,https://frymire.com/privacy-policy/,"Dallas HVAC + plumbing; ServiceTitan web scheduler embedded on site",
+IN,HomeSense,,care@trusthomesense.com,https://trusthomesense.com/contact-us/,"Indianapolis HVAC + plumbing + electrical (B&W merged in); ServiceTitan web scheduler embedded on site",
+CA,Viking Cooling & Heating,,marketing@vikingair.net,https://vikingair.net/privacy-policy/,"San Diego CA / Tucson AZ HVAC; static.servicetitan.com scheduler on site; ServiceTitan customer story (https://www.servicetitan.com/blog/success-story-viking-cooling-heating-titan-advisor)",hold - marketing inbox only; earlier run had it marked x_ (excluded) for unknown reason
+IL,Baethke Plumbing,,info@baethkeplumbing.com,https://www.baethkeplumbing.com/,"Chicago plumbing; ServiceTitan web scheduler (static.servicetitan.com/webscheduler) on site",hold - email only in page JSON-LD data
+SC,Tuck & Howell Plumbing Heating & Air,,tuckhowell@tuckandhowell.com,https://tuckandhowell.com/,"Upstate SC / WNC plumbing + HVAC, family-owned since 1969; ServiceTitan call tracking (DNI) script on site",hold - email only in page JSON-LD data
+CT,ENCON Heating & AC,,info@goencon.com,https://goencon.com/contact,"Stratford CT HVAC/mechanical; ServiceTitan on site; ServiceTitan customer story (https://www.servicetitan.com/blog/success-story-encon-heating-and-ac)",hold - footer links to ServiceLogic (PE-backed platform)
+TN,Patriot Services,,info@mypatriot.us,https://mypatriotheatandair.com/,"Chattanooga HVAC + plumbing; ServiceTitan scripts on site",hold - email domain (mypatriot.us) differs from site domain
