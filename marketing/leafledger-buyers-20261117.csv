@@ -1,18 +1,36 @@
-state,company,first_name,email,source_url,why,status
-FL,PIO Cigar Company,,order@piocigars.com,https://piocigars.com/contact,"Miami-founded premium cigar brand (made in Nicaragua, sold in the US) - brand owner/importer with excise and inventory records.",emailed 2026-11-17 from support@getleafledger.com
-TX,Bobalu Cigar Co.,Jeff,jeff@bobalu.com,https://bobalu.com/pages/wholesale,Austin cigar manufacturer selling wholesale to licensed retailers; owner Jeff named as wholesale contact.,emailed 2026-11-17 from support@getleafledger.com
-TX,Cigar Imports USA,,info@cigarimportsusa.com,https://cigarimportsusa.com/contact,"Dallas wholesale importer of cigars and leaf sourced from the Dominican Republic, Honduras and Nicaragua.",emailed 2026-11-17 from support@getleafledger.com
-FL,West Tampa Tobacco Company,Rick,westtampatobacco@gmail.com,https://westtampatobacco.com/,Tampa boutique handmade cigar brand founded by Rick Rodriguez; gmail is the address on its own site.,emailed 2026-11-17 from support@getleafledger.com
-FL,J.C. Newman Cigar Co.,,personalreserve@jcnewman.com,https://www.jcnewman.com/contact,Ybor City cigar factory (El Reloj) - US manufacturer; only public inbox is its Personal Reserve program address.,hold - program inbox only
-NY,La Sirena Cigars,Arielle,info@lasirenacigars.com,https://lasirenacigars.com/,NYC ultra-premium cigar brand founded by Arielle Ditkowich and distributed nationwide.,emailed 2026-11-17 from support@getleafledger.com
-FL,Federico Empire Cigar,,info@federicoempire.com,https://federicoempire.com/,Little Havana boutique factory that blends and hand-rolls its own brand.,emailed 2026-11-17 from support@getleafledger.com; bounced 2026-11-17
-FL,Nicahabana Cigars,,nicahabanacigars@gmail.com,https://www.nicahabanacigar.com/,Family-owned hand-rolled cigar manufacturer in Ybor City; gmail is the address on its own site.,emailed 2026-11-17 from support@getleafledger.com
-FL,The Original Key West Cigar Factory,David,david@kwcigarfactory.com,https://kwcigarfactory.com/contact-us,Key West cigar factory (since 1963) rolling and shipping its own cigars.,emailed 2026-11-17 from support@getleafledger.com
-FL,Rodriguez Cigar Factory,,info@rodriguezcigarskeywest.com,https://rodriguezcigarskeywest.com/contact,Key West cigar factory (Rodriguez Cigar Factory Inc.) with factory tours and a become-a-retailer program.,emailed 2026-11-17 from support@getleafledger.com; bounced 2026-11-17
-PA,Casta Cigars,,info@castacigars.com,https://castacigars.com/wholesale,York PA maker of hand-rolled cigars from aged leaf; takes wholesale orders.,emailed 2026-11-17 from support@getleafledger.com
-NC,Carolina Blue Cigars,Chris,chris@carolinabluecigars.com,https://carolinabluecigars.com/,North Carolina boutique cigar brand (founder Christopher Moore) made in the DR and sold to US retailers.,emailed 2026-11-17 from support@getleafledger.com
-TX,Hookah Wholesalers (Hookah-Shisha.com),,info@hookah-shisha.com,https://hookahwholesalers.com/contact,Austin shisha wholesaler in the Al Fakher group - imports and distributes hookah tobacco to licensed retailers.,emailed 2026-11-17 from support@getleafledger.com
-CA,Kretek International,,webinfo@kretek.com,https://kretek.com/policies/privacy-policy,Moorpark CA importer of Djarum cigars and other tobacco brands - TTB importer with excise reporting.,emailed 2026-11-17 from support@getleafledger.com
-NY,Martinez Hand Rolled Cigars,,sales@martinezcigars.com,https://martinezcigars.com/contact-us,Manhattan cigar factory hand-rolling its own lines (Flatiron etc.) since 1974.,emailed 2026-11-17 from support@getleafledger.com
-FL,Iconic Leaf Cigar Company,,order@iconicleafcigar.com,http://iconicleafcigar.com/,Cigar maker (Recluse) running private-label and factory production programs; Miami (305) phone.,emailed 2026-11-17 from support@getleafledger.com
-CA,Starbuzz Tobacco (ShopStarbuzz),,sales@shopstarbuzz.com,https://shopstarbuzz.com/,Stanton CA hookah tobacco manufacturer's official store - US shisha maker.,hold - store site not clearly Starbuzz
+state,company,first_name,email,source_url,why,status
+
+FL,PIO Cigar Company,,order@piocigars.com,https://piocigars.com/contact,"Miami-founded premium cigar brand (made in Nicaragua, sold in the US) - brand owner/importer with excise and inventory records.",emailed 2026-11-17 from support@getleafledger.com; bounced 2026-11-18
+
+TX,Bobalu Cigar Co.,Jeff,jeff@bobalu.com,https://bobalu.com/pages/wholesale,Austin cigar manufacturer selling wholesale to licensed retailers; owner Jeff named as wholesale contact.,emailed 2026-11-17 from support@getleafledger.com
+
+TX,Cigar Imports USA,,info@cigarimportsusa.com,https://cigarimportsusa.com/contact,"Dallas wholesale importer of cigars and leaf sourced from the Dominican Republic, Honduras and Nicaragua.",emailed 2026-11-17 from support@getleafledger.com
+
+FL,West Tampa Tobacco Company,Rick,westtampatobacco@gmail.com,https://westtampatobacco.com/,Tampa boutique handmade cigar brand founded by Rick Rodriguez; gmail is the address on its own site.,emailed 2026-11-17 from support@getleafledger.com
+
+FL,J.C. Newman Cigar Co.,,personalreserve@jcnewman.com,https://www.jcnewman.com/contact,Ybor City cigar factory (El Reloj) - US manufacturer; only public inbox is its Personal Reserve program address.,hold - program inbox only
+
+NY,La Sirena Cigars,Arielle,info@lasirenacigars.com,https://lasirenacigars.com/,NYC ultra-premium cigar brand founded by Arielle Ditkowich and distributed nationwide.,emailed 2026-11-17 from support@getleafledger.com
+
+FL,Federico Empire Cigar,,info@federicoempire.com,https://federicoempire.com/,Little Havana boutique factory that blends and hand-rolls its own brand.,emailed 2026-11-17 from support@getleafledger.com; bounced 2026-11-17
+
+FL,Nicahabana Cigars,,nicahabanacigars@gmail.com,https://www.nicahabanacigar.com/,Family-owned hand-rolled cigar manufacturer in Ybor City; gmail is the address on its own site.,emailed 2026-11-17 from support@getleafledger.com
+
+FL,The Original Key West Cigar Factory,David,david@kwcigarfactory.com,https://kwcigarfactory.com/contact-us,Key West cigar factory (since 1963) rolling and shipping its own cigars.,emailed 2026-11-17 from support@getleafledger.com
+
+FL,Rodriguez Cigar Factory,,info@rodriguezcigarskeywest.com,https://rodriguezcigarskeywest.com/contact,Key West cigar factory (Rodriguez Cigar Factory Inc.) with factory tours and a become-a-retailer program.,emailed 2026-11-17 from support@getleafledger.com; bounced 2026-11-17
+
+PA,Casta Cigars,,info@castacigars.com,https://castacigars.com/wholesale,York PA maker of hand-rolled cigars from aged leaf; takes wholesale orders.,emailed 2026-11-17 from support@getleafledger.com
+
+NC,Carolina Blue Cigars,Chris,chris@carolinabluecigars.com,https://carolinabluecigars.com/,North Carolina boutique cigar brand (founder Christopher Moore) made in the DR and sold to US retailers.,emailed 2026-11-17 from support@getleafledger.com
+
+TX,Hookah Wholesalers (Hookah-Shisha.com),,info@hookah-shisha.com,https://hookahwholesalers.com/contact,Austin shisha wholesaler in the Al Fakher group - imports and distributes hookah tobacco to licensed retailers.,emailed 2026-11-17 from support@getleafledger.com
+
+CA,Kretek International,,webinfo@kretek.com,https://kretek.com/policies/privacy-policy,Moorpark CA importer of Djarum cigars and other tobacco brands - TTB importer with excise reporting.,emailed 2026-11-17 from support@getleafledger.com
+
+NY,Martinez Hand Rolled Cigars,,sales@martinezcigars.com,https://martinezcigars.com/contact-us,Manhattan cigar factory hand-rolling its own lines (Flatiron etc.) since 1974.,emailed 2026-11-17 from support@getleafledger.com
+
+FL,Iconic Leaf Cigar Company,,order@iconicleafcigar.com,http://iconicleafcigar.com/,Cigar maker (Recluse) running private-label and factory production programs; Miami (305) phone.,emailed 2026-11-17 from support@getleafledger.com
+
+CA,Starbuzz Tobacco (ShopStarbuzz),,sales@shopstarbuzz.com,https://shopstarbuzz.com/,Stanton CA hookah tobacco manufacturer's official store - US shisha maker.,hold - store site not clearly Starbuzz
+
