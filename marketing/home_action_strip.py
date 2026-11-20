@@ -1,4 +1,4 @@
-"""Put the two real next steps (free trial, Microsoft Store) at the very top of each product home page,
+"""Put the two real next steps (free trial, Microsoft Store) at the very top of every product page (not legal pages),
 so a visitor sees them without scrolling. python home_action_strip.py [--apply]"""
 import pathlib, sys
 ROOT = pathlib.Path(r"C:\Users\17209\Projects")
@@ -15,13 +15,20 @@ TEMPLATE = ('<div id="ppg-home-strip" style="background:{bg};color:#fff;font:600
             '<a href="{trial}" style="background:#fff;color:{bg};padding:7px 14px;border-radius:6px;text-decoration:none;font-weight:700">Start free trial</a>'
             '<a href="https://apps.microsoft.com/detail/{store}?mode=direct&amp;cid={cid}" style="color:#fff;text-decoration:underline;text-underline-offset:3px">or get it from the Microsoft Store</a></div>')
 apply = "--apply" in sys.argv
+import re
+SKIP = {"terms.html", "privacy.html", "refunds.html", "licenses.html", "404.html", "start.html", "welcome.html", "help.html"}
 for s, cfg in SITES.items():
-    p = ROOT / s / "index.html"
-    t = p.read_text(encoding="utf-8")
-    if MARK in t:
-        print(s, "already has the strip"); continue
-    assert t.count("<body>") == 1, s
-    t = t.replace("<body>", "<body>" + TEMPLATE.format(**cfg), 1)
-    print(s, "strip added" if apply else "would add strip")
-    if apply:
-        p.write_text(t, encoding="utf-8", newline="")
+    for p in sorted((ROOT / s).glob("*.html")):
+        if p.name in SKIP or p.name.startswith("google"):
+            continue
+        t = p.read_text(encoding="utf-8")
+        if MARK in t:
+            continue
+        m = list(re.finditer(r"<body[^>]*>", t))
+        if len(m) != 1:
+            print("SKIP no single body:", s, p.name); continue
+        cid = cfg["cid"].replace("home-strip", "strip-" + p.stem[:30])
+        t = t[:m[0].end()] + TEMPLATE.format(**dict(cfg, cid=cid)) + t[m[0].end():]
+        print(s, p.name, "strip added" if apply else "would add")
+        if apply:
+            p.write_text(t, encoding="utf-8", newline="")
